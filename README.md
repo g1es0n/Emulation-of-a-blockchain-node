@@ -1,1 +1,0 @@
-# Emulation-of-a-blockchain-node
